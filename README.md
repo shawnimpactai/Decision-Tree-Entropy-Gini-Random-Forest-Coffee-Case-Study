@@ -1,4 +1,5 @@
-# Decision Tree Entropy Gini Random Forest Coffee Case Study
+# Archived: Early experimental project. Preserved for reference and continuity. Not reflective of current engineering capability.
+Decision Tree Entropy Gini Random Forest Coffee Case Study
 
 In this exercise we will use the Random Forest, Entropy and Gini models to predict the potential number of coffee products/units would the loyal customers for RR Diner Coffee will purchase if RR Diner were to purchase their coffee from Hidden Farms Coffee in China. 
 
